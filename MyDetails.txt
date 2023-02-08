@@ -1,3 +1,8 @@
 Name   : Swathi Vilasini
 Age    : 30
+<<<<<<< HEAD
 Gender : Female
+=======
+Gender : Female
+company: Logic Tree
+>>>>>>> e460d1b3b603b59529a5ffec95168ddd474a6ed6
