@@ -3,4 +3,5 @@ Age    : 30
 Gender : Female
 company: Logic Tree
 Location : Bangaluru
-
+ctc      : 4.5
+ectc     : 7.5
