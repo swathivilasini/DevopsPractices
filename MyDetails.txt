@@ -4,3 +4,4 @@ Gender : Female
 company: Logic Tree
 Location : Bangaluru
 streem  : Devops
+cloud   : AWS
